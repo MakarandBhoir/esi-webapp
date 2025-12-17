@@ -27,7 +27,6 @@ Thumbs.db
 *.cache
 
 # Ignore environment and secret files
-.env
 secrets.json
 
 # Ignore NuGet packages and related files
